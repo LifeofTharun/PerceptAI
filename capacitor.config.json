@@ -1,0 +1,6 @@
+{
+  "appId": "com.percepai.app",
+  "appName": "PercepAI",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

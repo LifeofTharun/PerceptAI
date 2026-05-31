@@ -1,0 +1,24 @@
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node packages
+node_modules/
+
+# Local databases
+percepai.db
+test_percepai.db
+
+# Uploaded images
+uploads/*
+!uploads/.gitkeep
+
+# Sensitive config files
+config.json
+
+# IDE config files
+.vscode/
+.idea/
+.gemini/
+antigravity-ide/
